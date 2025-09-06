@@ -5,3 +5,7 @@ This is the shared repository for Assignment 2.
 ## Feature by Aghna
 Added usage instructions
 Practiced pull requests
+
+## Feature by Sarah
+Added usage instructions 
+updated README
