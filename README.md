@@ -7,5 +7,5 @@ Added usage instructions
 Practiced pull requests
 
 ## Feature by Sarah
-Trying to check resolve merge conflict feature
+Checking merge conflict
 
