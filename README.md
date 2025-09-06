@@ -7,7 +7,5 @@ Added usage instructions
 Practiced pull requests
 
 ## Feature by Sarah
-Added usage instructions 
-Practiced pull requests
-
+Trying to check resolve merge conflict feature
 
