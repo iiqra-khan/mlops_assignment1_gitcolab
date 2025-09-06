@@ -8,8 +8,7 @@ Practiced pull requests
 
 ## Feature by Sarah
 Added usage instructions 
-feature/Sarah-update
 Practiced pull requests
 
-updated README
+
  main
